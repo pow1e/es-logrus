@@ -286,5 +286,5 @@ func syncFireFunc(entry *logrus.Entry, hook *ElasticHook) error {
 
 
 
-查看github
+查看[https://github.com/pow1e/es-logrus]()
 
